@@ -6,6 +6,21 @@ This framework helps customer-facing teams connect product adoption, customer go
 
 ---
 
+## Template Key
+
+Use the templates in this repo in this order:
+
+1. [QBR Agenda](template-01-qbr-agenda.md)  
+   Use this to structure the meeting, align expectations, and guide the customer conversation.
+
+2. [Business Outcomes Review](template-02-business-outcomes-review.md)  
+   Use this to connect product usage, adoption, milestones, and customer goals to business value.
+
+3. [Recommendations and Next Steps](template-03-recommendations-and-next-steps.md)  
+   Use this to document risks, recommendations, ownership, and follow-up actions after the review.
+
+---
+
 ## Purpose
 
 A strong QBR is not a product demo.
