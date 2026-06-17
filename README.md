@@ -2,7 +2,7 @@
 
 A platform-agnostic Customer Business Review and QBR framework for SaaS teams, Customer Success Managers, Technical Account Managers, and account leaders.
 
-This framework helps customer-facing teams connect product adoption, customer goals, business outcomes, risks, recommendations, and next steps in a clear executive-facing format.
+This framework enables customer-facing teams to connect product adoption, customer goals, business outcomes, risks, recommendations, and next steps in a clear executive-facing format.
 
 ---
 
@@ -25,7 +25,7 @@ Use the templates in this repo in this order:
 
 A strong QBR is not a product demo.
 
-It is a business conversation that helps the customer understand:
+It is a business conversation designed to clarify:
 
 - what progress has been made
 - how the platform supports their goals
@@ -35,21 +35,6 @@ It is a business conversation that helps the customer understand:
 - how both teams will stay aligned
 
 The goal is to move the conversation from “what features are being used” to “what business value is being created.”
-
----
-
-## Template Key
-
-Use the templates in this repo in this order:
-
-1. [QBR Agenda](template-01-qbr-agenda.md)  
-   Use this to structure the meeting, align expectations, and guide the customer conversation.
-
-2. [Business Outcomes Review](template-02-business-outcomes-review.md)  
-   Use this to connect product usage, adoption, milestones, and customer goals to business value.
-
-3. [Recommendations and Next Steps](template-03-recommendations-and-next-steps.md)  
-   Use this to document risks, recommendations, ownership, and follow-up actions after the review.
 
 ---
 
@@ -90,5 +75,17 @@ Clear ownership, due dates, and follow-up commitments.
 ## Customer Success Principle
 
 A QBR should help the customer see value clearly.
+
+## Usage Notice
+
+© 2026 Ianthe Hernandez. All rights reserved.
+
+This repository is publicly available for portfolio review, recruiter evaluation, professional discussion, and demonstration purposes only.
+
+No permission is granted to copy, modify, adapt, redistribute, republish, commercialize, incorporate into another project, or present the content, structure, templates, or framework as your own.
+
+Written permission from Ianthe Hernandez is required for any reuse, modification, redistribution, publication, commercial use, or derivative work.
+
+Public access to this repository does not constitute permission to use the content, structure, templates, or framework.
 
 The strongest reviews are not centered on features. They are centered on outcomes, priorities, risks, and the customer’s path forward.
